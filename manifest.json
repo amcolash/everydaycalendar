@@ -1,0 +1,17 @@
+{
+  "name": "Everyday Calendar",
+  "short_name": "Everyday",
+  "theme_color": "#7ccbc4",
+  "background_color": "#7ccbc4",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ]
+}
