@@ -109,4 +109,6 @@
     function toggleBit(state, index) {
         return (state[index / 6 | 0] ^= 1 << (index % 6)) & (1 << (index % 6));
     }
+
+    navigator.serviceWorker.register('service-worker.js');
 })();
