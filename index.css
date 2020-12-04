@@ -53,6 +53,7 @@ body {
     line-height: 1.5;
     color: #333;
     background: #7CCBC4;
+    transform: scale(0.925);
 }
 
 a {
@@ -70,9 +71,8 @@ p > iframe {
 .outer {
     width: 618px;
     height: 1000px;
-    margin: 30px auto;
+    margin: 60px auto;
     position: relative;
-    top: 75px;
 }
 
 #inner {
@@ -170,9 +170,12 @@ p > iframe {
 }
 
 h1 {
-    font-size: 28px;
+    margin-top: 20px;
+    color: #fafafa;
+    font-size: 54px;
     font-weight: bold;
-    color: #151515;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 1);
+    text-align: center;
 }
 
 .content {
