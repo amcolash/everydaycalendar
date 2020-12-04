@@ -5,8 +5,7 @@
   "background_color": "#7ccbc4",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "start_url": "/everydaycalendar/",
   "icons": [
     {
       "src": "icon.png",
