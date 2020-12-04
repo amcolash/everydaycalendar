@@ -1,8 +1,12 @@
 # everydaycalendar
 
+Fork of the [original version](https://github.com/zmxv/everydaycalendar) by [zmxv](https://github.com/zmxv/). This version makes the calendar a pwa w/ web manifest, service worker, icon, and is somewhat mobile friendly.
+
+---
+
 A web app of Simone Giertz's Every Day Calendar gadget.
 
-https://everydaycalendar.app/
+https://amcolash.github.io/everydaycalendar/
 
 Simone Giertz, a YouTube celebrity famous for her hilarious robotics inventions, has announced her first hardware product for sale — the "Every Day Calendar" that keeps track of your daily goals and motivates you to develop good habits: https://www.youtube.com/watch?v=-lpvy-xkSNA
 
